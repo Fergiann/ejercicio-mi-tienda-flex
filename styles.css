@@ -1,0 +1,313 @@
+header{
+    width: 100vw;
+}
+
+h1{
+    text-align: center;
+}
+
+.nav1 > p{
+    display: inline-block;
+    color: grey;
+    font-size: small;
+    position: relative;
+    left: 615px;
+    bottom: 20px;
+}
+
+.licencias{
+    text-align: center;
+    position: relative;
+    bottom: 60px;
+    left: 80px;
+    font-size: small;
+}
+    
+.nav2 > p{
+    display: inline-block;
+    font-size: small;
+    position: relative;
+    left: 1300px;
+    bottom: 100px;
+}
+
+.sexo{
+    position: relative;
+    bottom: 180px;
+    left: 40px;
+}
+
+.sexo p{
+    display: inline-block;
+}
+
+.menu{
+    position: absolute;
+    top: 70px;
+    left: 50px;
+}
+
+main{
+    height: 260vh;
+}
+
+.primeraSeccion{
+    position: relative;
+    bottom: 130px;
+}
+
+.parrafoSerieA{
+    font-size: 200%;
+}
+
+
+.serieA{
+    display: flex;
+    justify-content: center;
+    max-width: 80vw;
+    padding: 20px;
+    margin: 10px;
+    position: relative;
+    left: 180px;
+    bottom: 170px;
+}
+
+.camiseta-img{
+    width: 50%;
+    margin: 15px auto;
+    padding: 10px;
+    position: relative;
+    background-color: #f1f1f1;
+}
+
+.camiseta-img > .img{
+    width: 100%;
+    max-height: 200px;
+    border-radius: 10px;
+}
+
+.descripcion1{
+    text-align: center;
+    position: absolute;
+    left: 75px;
+}
+
+.descripcion2{
+    text-align: center;
+    position: absolute;
+    left: 90px;
+}
+
+.descripcion3{
+    text-align: center;
+    position: absolute;
+    left: 100px;
+}
+
+.descripcion4{
+    text-align: center;
+    position: absolute;
+    left: 100px;
+}
+
+.segundaSeccion{
+    position: relative;
+    bottom: 85px;
+}
+
+.parrafoLaLiga{
+    font-size: 200%;
+}
+
+.laLiga{
+    display: flex;
+    justify-content: center;
+    max-width: 80vw;
+    padding: 20px;
+    margin: 10px;
+    position: relative;
+    left: 180px;
+    bottom: 120px;
+}
+
+.descripcion5{
+    text-align: center;
+    position: absolute;
+    left: 50px;
+}
+
+.descripcion6{
+    text-align: center;
+    position: absolute;
+    left: 90px;
+}
+
+.descripcion7{
+    text-align: center;
+    position: absolute;
+    left: 80px;
+}
+
+.descripcion8{
+    text-align: center;
+    position: absolute;
+    left: 100px;
+}
+
+.premierLeague{
+    display: flex;
+    justify-content: center;
+    max-width: 80vw;
+    padding: 20px;
+    margin: 10px;
+    position: relative;
+    left: 180px;
+    bottom: 40px;
+}
+
+.terceraSeccion{
+    position: relative;
+    bottom: 10px;
+}
+
+.parrafoPremierLeague{
+    font-size: 200%;
+}
+
+.descripcion9{
+    text-align: center;
+    position: absolute;
+    left: 100px;
+}
+
+.descripcion10{
+    text-align: center;
+    position: absolute;
+    left: 90px;
+}
+
+.descripcion11{
+    text-align: center;
+    position: absolute;
+    left: 80px;
+}
+
+.descripcion12{
+    text-align: center;
+    position: absolute;
+    left: 100px;
+}
+
+.cuartaSeccion{
+    position: relative;
+    top: 80px;
+}
+
+.parrafoBundesliga{
+    font-size: 200%;
+}
+
+.bundesliga{
+    display: flex;
+    justify-content: center;
+    max-width: 80vw;
+    padding: 20px;
+    margin: 10px;
+    position: relative;
+    left: 180px;
+    top: 50px;
+}
+
+.descripcion13{
+    text-align: center;
+    position: absolute;
+    left: 70px;
+}
+
+.descripcion14{
+    text-align: center;
+    position: absolute;
+    left: 90px;
+}
+
+.descripcion15{
+    text-align: center;
+    position: absolute;
+    left: 80px;
+}
+
+.descripcion16{
+    text-align: center;
+    position: absolute;
+    left: 100px;
+}
+
+.quintaSeccion{
+    position: relative;
+    top: 150px;
+}
+
+.parrafoLeagueOne{
+    font-size: 200%;
+}
+
+.leagueOne{
+    display: flex;
+    justify-content: center;
+    max-width: 80vw;
+    padding: 20px;
+    margin: 10px;
+    position: relative;
+    left: 180px;
+    top: 120px;
+}
+
+.descripcion17{
+    text-align: center;
+    position: absolute;
+    left: 100px;
+}
+
+.descripcion18{
+    text-align: center;
+    position: absolute;
+    left: 150px;
+}
+
+.descripcion19{
+    text-align: center;
+    position: absolute;
+    left: 80px;
+}
+
+.suscribete{
+    text-align: center;
+    position: relative;
+    top: 280px;
+    border-color: azure;
+    border-style: groove;
+    border-width: 10px;
+    padding: 10px;
+}
+
+.contacto{
+    text-align: center;
+    position: relative;
+    top: 350px;
+    border-color: azure;
+    border-style: groove;
+    border-width: 10px;
+    padding: 10px;
+}
+
+.ventaOnline > p{
+    display: inline-block;
+}
+
+p + button{
+    border-radius: 10px;
+    position: relative;
+    bottom: 120px;
+    left: 110px;
+}
+
